@@ -12,4 +12,4 @@ sudo systemctl install nginx
 
 sudo systemctl enable nginx
 
-
+#this is nginx installation
