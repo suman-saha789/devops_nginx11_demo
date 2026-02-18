@@ -4,11 +4,11 @@ This projrct helps you install nginx on Linux
 
 #Steps
 
-sudo apt-get update
+sudo apt-get update -y
 
 sudo apt install nginx
 
-sudo systemctl install nginx
+sudo systemctl start nginx
 
 sudo systemctl enable nginx
 
